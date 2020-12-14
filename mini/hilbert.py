@@ -14,8 +14,9 @@ blue = (0, 0, 255)
 cyan = (0, 255, 255)
 magenta = (255, 0, 255)
 yellow = (255, 255, 0)
+orange = (253, 106, 2)
 
-colours = [white, red, green, blue, cyan, magenta, yellow]
+colours = [white, red, magenta, green, cyan, blue, orange, yellow]
 
 # height and width of the screen
 length = 1000
